@@ -1,0 +1,26 @@
+body {
+    background-color: dimgrey;
+    color: antiquewhite;
+    font-family: "Calibri Light";
+
+}
+header {
+    color: black;
+    background-color: aqua;
+text-align: center;
+    padding: 50px;
+}
+section {
+    font-family: "Courier New";
+    padding-left: 30px;
+    background-color: darkred;
+
+}
+footer {
+
+    padding: 10px;
+    text-align: end;
+}
+img {
+    width: 100%;
+}

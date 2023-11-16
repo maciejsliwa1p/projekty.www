@@ -1,0 +1,1 @@
+alert("To jest tekst wyswietlony przez skrypt.");
